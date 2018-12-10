@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "portfolio2/package.json"
+      ]
+    }
+  }
+}
